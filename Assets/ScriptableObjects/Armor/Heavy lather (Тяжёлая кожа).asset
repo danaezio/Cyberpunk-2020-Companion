@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d91b796e50fbb464a8032287c5f7d531, type: 3}
+  m_Name: "Heavy lather (\u0422\u044F\u0436\u0451\u043B\u0430\u044F \u043A\u043E\u0436\u0430)"
+  m_EditorClassIdentifier: 
+  name: "Heavy lather (\u0422\u044F\u0436\u0451\u043B\u0430\u044F \u043A\u043E\u0436\u0430)"
+  head: 0
+  torso: 4
+  rightHand: 4
+  leftHand: 4
+  rightLeg: 4
+  leftLeg: 4
